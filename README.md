@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NateStrings
-- 👀 I’m interested in programming languages, apps and making games from scratch
-- 🌱 I’m currently learning C#, Python, and JS
-- 💞️ I’m looking to collaborate on Video games from scratch or creating complete car overhaul programs.
-- 📫 How to reach me - Here, shoot me a message!
+Hi, I’m @NateStrings
+I’m interested in App dev, Embedded sofware, and Car controller systems.
+Developing in C#, .Net, C/C++, and Python
+I’m looking to for chats on everyeday use Apps ideas or creating interactive can bus software for older Chevy vehicles.
+How to reach me - Here, shoot me a message!
 
 <!---
 NateStrings/NateStrings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
